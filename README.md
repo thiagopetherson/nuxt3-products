@@ -3,7 +3,7 @@
 ![Screenshot from 2023-11-26 15-16-33](https://github.com/thiagopetherson/nuxt3-products/assets/44420212/bedcf11c-7150-4729-a4dc-429b5879fd17)
 
 <br>
-Application Running: https://nuxt-products.netlify.app/products
+Application Running: https://nuxt-products.netlify.app/
 
 # Nuxt 3 Minimal Starter
 
