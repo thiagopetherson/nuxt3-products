@@ -1,5 +1,12 @@
 # Nuxt Products
 
+Este projeto foi desenvolvido utilizando o framework Nuxt 3, uma poderosa ferramenta para a construção de aplicações web modernas e eficientes. 
+O Nuxt 3 oferece uma abordagem intuitiva e facilitadora para o desenvolvimento, permitindo uma experiência fluida durante o processo.<br>
+
+É importante destacar que a criação deste projeto foi conduzida de maneira didática, visando proporcionar um ambiente de aprendizado e compreensão do uso do Nuxt 3. 
+Cada parte do código foi elaborada com o intuito de oferecer clareza e facilitar a assimilação de conceitos relacionados ao framework.<br>
+
+
 ![Screenshot from 2023-11-26 15-16-33](https://github.com/thiagopetherson/nuxt3-products/assets/44420212/bedcf11c-7150-4729-a4dc-429b5879fd17)
 
 <br>
