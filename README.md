@@ -11,6 +11,11 @@ Cada parte do código foi elaborada com o intuito de oferecer clareza e facilita
 
 <br>
 Application Running: https://nuxt-products.netlify.app/
+<br>
+
+Caso queira aprender a fazer deploy das builds de aplicações frontend criadas com React, Vue Vanilla, Quasar, Nuxt, entre outros, recomendo a leitura do meu artigo no medium.<br>
+Link: https://medium.com/@thiagopetherson/fazendo-deploy-de-uma-aplica%C3%A7%C3%A3o-desenvolvida-com-reactjs-7fcc1b92752b
+
 
 # Nuxt 3 Minimal Starter
 
