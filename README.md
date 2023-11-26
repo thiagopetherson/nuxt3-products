@@ -9,9 +9,9 @@ Cada parte do código foi elaborada com o intuito de oferecer clareza e facilita
 
 ![Screenshot from 2023-11-26 15-16-33](https://github.com/thiagopetherson/nuxt3-products/assets/44420212/bedcf11c-7150-4729-a4dc-429b5879fd17)
 
-<br>
+
 Application Running: https://nuxt-products.netlify.app/
-<br>
+<br><br>
 
 Caso queira aprender a fazer deploy das builds de aplicações frontend criadas com React, Vue Vanilla, Quasar, Nuxt, entre outros, recomendo a leitura do meu artigo no medium.<br>
 Link: https://medium.com/@thiagopetherson/fazendo-deploy-de-uma-aplica%C3%A7%C3%A3o-desenvolvida-com-reactjs-7fcc1b92752b
